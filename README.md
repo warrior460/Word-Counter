@@ -1,1 +1,2 @@
 # Word-Counter
+Learning purpose
